@@ -1,0 +1,41 @@
+<html>
+
+
+<h1 align="center"><u><font size="+3">Positive Effects of Hydropwer:</u></h1>
+
+<body>
+
+<p style="text-align:center;"><img src="https://ensia.com/wp-content/uploads/2016/12/feature_dams_december16_main-760x378.jpg" height="200" width="400"> </p>
+
+<p style= "font-family:arial;line-height:1.6"><b><font size='5'>Renewable</font> </b> <font size="+1"> <br>  This means that the power produced cannot be depleted since hydropower uses water; a natural resource from the earth which can be recycled to generate electricity.</p>
+
+<p style= "font-family:arial;line-height:1.6"><b><font size="5">Reduces Greenhouse Gas Emissions</font> </b> <br> As electricity is generated, greenhouse gases such as carbon dioxide are not released, hence, it does not cause air pollution. In succession, this aids in the prevention of global warming and climate change.</p>
+
+<p style= "font-family:arial;line-height:1.6"><b><font size='5'>Promoties Irrigation</font> </b> <br> The lake water that is formed behind the dam can be useful in crop production for local farmers.</p>
+
+<p style= "font-family:arial;line-height:1.6"><b><font size="5">Non-toxic</font> </b> <br>  Compared to fossil fuels, biomass and nuclear power, there is no fuel involved in hydropower, making it less harmful.</p>
+
+<p style= "font-family:arial;line-height:1.6"><b><font size="5">Readily Available</font> </b> <br>   Once electricity is not required and water builds up, the dam can be sealed to stop the production of electricity so that the energy can be stored until it is eventually needed.</p> 
+<br>
+
+<p style= "text-align:center">
+<b><u><font size="+3">Negative Effects of Hydropower</font> </u></b></p>
+
+<p style="text-align:center;"><img src="https://www.scientists4mekong.com/wp-content/uploads/2017/06/Cartoon-Hydropower-in-Mekong-1-640x430.jpg" height="200" width="400"> </p>
+
+<p style= "font-family:arial;line-height:1.6"><b><font size='5'>Flooding</font> </b> <br> When the dam is constructed on highland, there is risk of flooding which can put the livelihoods of persons in danger forcing them to relocate if there is no alternative.</p>
+
+<p style= "font-family:arial;line-height:1.6"><b><font size='5'>Deterioration of Plant and Animal Wildlife and Habitats</font> </b> <br>  Marine life can be trapped from reaching their breathing ground due to the blockage of water by the dam disabling access to food.</p>
+
+<p style= "font-family:arial;line-height:1.6"><b><font size='5'>Obstructs Road Access and Power Lines</font> </b> <br>  Dam built may intervene in the construction of infrastructure such as roads and power lines.</p> 
+
+<p style= "font-family:arial;line-height:1.6"><b><font size='5'>Drought-Influenced</font> </b> <br>  As energy produced is directly related to the availability of water, a drought can reduce the amount of electricity generated due to less supply of water.</p>
+
+<p style= "font-family:arial;line-height:1.6"><b><font size='5'>Expensive and Time-consuming to Construct</font> </b> <br> Dams are generally expensive build especially to be able to meet the optimal standards in order to function efficiently.</p>
+<br>
+
+<p style= "font-family:arial;line-height:1.6"><b><font size='2'>Name: Karina Bruce
+
+</body>
+
+</html>
